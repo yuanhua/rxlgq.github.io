@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: Rxlgq
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "rxlgq"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "https://rxlgq.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " rxlgq"
+  email: guangquanl85@gmail.com
+  bio: "知识图谱"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
